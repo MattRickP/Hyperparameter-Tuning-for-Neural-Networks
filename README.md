@@ -6,5 +6,5 @@ The process of hyperparameter tuning revolves around systematically exploring va
 We will apply several optimization algorithms — Random Search, HyperBand, Bayesian Optimization and Optuna — to tune the hyperparameters of a classification model for a churn dataset. Afterward, we will compare the best hyperparameters obtained from each approach to evaluate their effectiveness.
   
 The dataset used in this repository was created by Shubham Kumar (Owner) and is hosted on Kaggle.  
-The dataset is released under the CC0: Public Domain license, meaning it is free to use, share and modify without any restrictions.  
+The dataset is released under the CC0: Public Domain license.  
 https://www.kaggle.com/datasets/shubh0799/churn-modelling/data
